@@ -1,0 +1,113 @@
+    /*-----------------------------------------------------------------------------------
+
+    mfn Inc. FansAward the web site application
+    Folly Hippolyte == Logovi Geoffrey == Mivelessome Flrent
+
+-----------------------------------------------------------------------------------
+    
+    CSS INDEX
+    ===================
+	
+    1. Theme Default CSS (body, link color, section etc)
+    2. Colour favorites fan-favorite-{#}
+    3. Notifications navbar styling badge and side bar
+    4. Post of users
+    5. Home page css particular content post by users
+    6. 
+
+-----------------------------------------------------------------------------------*/
+    /*----------------------------------------*/
+    /*  1.  Theme default CSS
+/*----------------------------------------*/
+    
+    html,
+    body {
+        font-family: 'Roboto', sans-serif;
+        font-weight: 400;
+    }
+    
+    body {
+        background: #F6F8FA!important;
+    }
+    /*  2.  Color favorite fan-favorite-{#}
+/*----------------------------------------*/
+    
+    .fan-favorite-1 {
+        color: #00dfa5!important;
+    }
+    
+    .fan-favorite-2 {
+        color: #0a5!important;
+    }
+    
+    .fan-favorite-3 {
+        color: #08f!important;
+    }
+    
+    .fan-favorite-4 {
+        color: #06153c!important;
+    }
+    
+    .fan-favorite-5 {
+        color: #212121!important;
+    }
+    
+    .fan-favorite-6 {
+        color: #ff7f50!important;
+    }
+    
+    .fan-bg-footer {
+        background-color: #00dfa5;
+    }
+    /*----------
+    3.Notifications styling badge
+*/
+    
+    .fan-side {
+        position: relative!important;
+        left: 9vh!important;
+    }
+    
+    .on-bell {
+        position: relative;
+        top: 1px;
+        /*right: 40vh;*/
+        color: #fff;
+        /*background-color: #ff0000;*/
+        width: 15px;
+        height: 15px;
+        border-radius: 50%;
+        line-height: 18px;
+        font-size: 20px;
+        text-align: center;
+    }
+    
+    .fan-close {
+        cursor: pointer;
+    }
+    
+    .fan-mt-2 {
+        margin-top: 10px;
+    }
+    /*-----------------
+    4. Post of users XXXXXX
+----*/
+    
+    .circle {
+        height: 64px;
+        width: 64px
+    }
+    
+    .fan-post-content {
+        padding-top: 10px;
+    }
+    
+    .fan-post-content .post-img {}
+    /*-------
+    5. *  Home page css particular content post by users
+---------*/
+    /**
+ *  Home page css particular content post by users
+ */
+    
+    .fan-col {}
