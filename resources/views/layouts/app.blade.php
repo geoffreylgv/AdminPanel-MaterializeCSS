@@ -61,8 +61,9 @@
       </div>
     </div>
   </nav>
-
-  <ul  id="slide-out" class="sidenav sidenav-side">
+  
+  {{-- <ul  id="slide-out" class="sidenav sidenav-side"> --}}
+  <ul  id="slide-out" class="sidenav sidenav-fixed">
     <!--<li class="teal"><a class="sidenav-close white-text fan-close">X Fermer</a></li>-->
     <li>
       <div class="user-view">
@@ -87,17 +88,19 @@
   <!-- / NAV plus SIDENAV-->
 
   <!--All CONTENT HER : the BODY YIELD-->
+  <div class="container">
     @yield('content')
   <!--END CONTENT-->
+  </div>
 
   <!--FOOTER-->
-  <div class="page-footer fan-bg-footer">
+  <div class="page-footer blue-grey">
     <div class="footer-copyright">
       <div class="container">
         &copy; Copyright 2020 - 2023 All rigth reserved
         <span class="right">
           <img src="" alt="" srcset="">
-          <a href="https://geoffreylogovi.me" target="_blank">Geoffrey Logovi</a>. 
+          <a href="https://geoffreylogovi.me" style="text-decoration: none!;" target="_blank">Geoffrey Logovi</a>. 
         </span>
       </div>
     </div>
