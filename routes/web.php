@@ -13,5 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', 'PrincipaleController@index')->name('home');
-Route::get('/news', 'PrincipaleController@news')->name('news');
+// Route::get('/', 'PrincipaleController@index')->name('home');
+// Route::get('/news', 'PrincipaleController@news')->name('news');
+Route::get('/', [\App\Http\Controllers\PrincipaleController::class, 'index']);
+Route::get('/news', [\App\Http\Controllers\PrincipaleController::class, 'news']);

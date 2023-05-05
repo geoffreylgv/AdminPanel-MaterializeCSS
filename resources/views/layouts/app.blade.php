@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Fan's Award | @yield('title')</title>
+    <title>MLSA Admin Panel | @yield('title')</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- favicon======= -->
@@ -27,7 +27,7 @@
   <nav class="teal accent-4">
     <div class="nav-wrapper">
       <div class="container">
-        <a href="/" class="brand-logo fan-side text-blue hide-on-small-only">Fan's Award</a>
+        <a href="/" class="brand-logo fan-side text-blue hide-on-small-only">MLSA Admin Panel</a>
         <a href="" class="sidenav-trigger show-on-medium-and-up " data-target="slide-out"><i class="material-icons">menu</i></a>
         <!--LINKS ICONS-->
         <ul class="right">
@@ -94,10 +94,10 @@
   <div class="page-footer fan-bg-footer">
     <div class="footer-copyright">
       <div class="container">
-        &copy; Copyright 2020 All rigth reserved
+        &copy; Copyright 2020 - 2023 All rigth reserved
         <span class="right">
           <img src="" alt="" srcset="">
-          <a href="https://mfn-32.webself.net" target="_blank">mfn Inc</a>. 
+          <a href="https://geoffreylogovi.me" target="_blank">Geoffrey Logovi</a>. 
         </span>
       </div>
     </div>
