@@ -29,7 +29,7 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 ## Code of Conduct
 
 This project and everyone participating in it is governed by the
-[AdminPanel-MaterializeCSS Code of Conduct](https://github.com/geoffreylgv/AdminPanel-MaterializeCSS/instructions/CODE_OF_CONDUCT.md).
+[AdminPanel-MaterializeCSS Code of Conduct](https://github.com/geoffreylgv/AdminPanel-MaterializeCSS/blob/main/instructions/CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code. Please report unacceptable behavior
 to me y submitting issue.
 
