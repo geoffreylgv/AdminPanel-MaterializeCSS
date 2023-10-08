@@ -13,5 +13,6 @@ Fell free to contribute
 2. Run ``composer install``
 3. And ``php artisan serve``
 
-[Contribute, read here](/instructions/CONTRIBUTING.md).
+[Contribute, read here](./CONTRIBUTING.md).
+[Important, read the code of conduct](./CODE_OF_CONDUCT.md).
 >That's all. With love, thanks you for reading. ^_^
